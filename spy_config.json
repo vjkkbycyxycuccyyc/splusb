@@ -1,0 +1,99 @@
+{
+  "bot_owners": [],
+  "chats": {
+    "22662410": {
+      "active": true,
+      "admins": [
+        39890369,
+        41591569,
+        42897879,
+        59563625,
+        66009832,
+        68060151,
+        68825638,
+        68977042,
+        69440058,
+        70121262,
+        70476806
+      ],
+      "group_owner": 69891454,
+      "exempt": [],
+      "silent_mode": true,
+      "ban_enabled": false,
+      "word_filters": [
+        "گ ی",
+        "فا علم",
+        "ب ر د",
+        "حضوری",
+        "هال پی"
+      ],
+      "media_filters": {},
+      "locks": {
+        "gif": false,
+        "photo": false,
+        "link": true,
+        "phone": true,
+        "forward": true,
+        "id": true,
+        "sticker": false,
+        "voice": false,
+        "video": false,
+        "file": false,
+        "unicode_spam": true,
+        "spam": true,
+        "group": false,
+        "media": false
+      },
+      "auto_cleanup": {
+        "times": []
+      },
+      "auto_media_cleanup": {
+        "interval_seconds": null,
+        "times": []
+      },
+      "auto_unmute_time": null,
+      "auto_unban_time": null,
+      "group_auto_lock": {
+        "lock_time": null,
+        "unlock_time": null
+      },
+      "muted": {
+        "70667610": "2026-11-20T08:39:34+00:00"
+      },
+      "banned": {},
+      "spam_punishment": {
+        "type": "timed_mute",
+        "minutes": 10
+      },
+      "mute_action_lock": {
+        "minutes": 5
+      },
+      "bio_filter_words": [],
+      "bio_punishment": {
+        "type": "normal"
+      },
+      "name_filter_words": [],
+      "name_punishment": {
+        "type": "normal"
+      },
+      "anti_khale_enabled": true,
+      "anti_khale_punishment": {
+        "type": "mute"
+      },
+      "member_stealer_lock_enabled": true,
+      "anti_jagh_lock_enabled": true,
+      "anti_ad_lock_enabled": true,
+      "mute_reset_minutes": null,
+      "auto_delete_messages_enabled": false,
+      "auto_delete_delay_seconds": null,
+      "learned_words": {},
+      "learned_words_enabled": true,
+      "fun_enabled": true,
+      "lock_warn_settings": {},
+      "warnings": {},
+      "killed": {},
+      "spam_settings": {},
+      "_last_run": {}
+    }
+  }
+}
